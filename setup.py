@@ -10,7 +10,7 @@ setup(
     name='py_sql_ext',
     version='0.1',
     keywords=('sql', 'sqlalchemy','transaction','sql ext','render'),
-    description=u'扩展了SqlAlchemy,支持声明式事务和手写SQL',
+    description=u'扩展于SqlAlchemy,支持声明式事务和手写SQL',
     license='Apache License',
     install_requires=['sqlalchemy'],
 
